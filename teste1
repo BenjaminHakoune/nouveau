@@ -1,2 +1,6 @@
 
 bonjour
+fonction message():  {
+var #char message
+message ='bonjour'
+return(message)
